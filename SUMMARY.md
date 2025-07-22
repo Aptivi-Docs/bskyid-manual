@@ -16,5 +16,5 @@
 
 ***
 
-* [Report an issue](https://github.com/Aptivi/BskyId/issues/new)
-* [Source code](https://github.com/Aptivi/BskyId)
+* [Report an issue](https://gitlab.com/aptivi/main/BskyId/-/issues)
+* [Source code](https://gitlab.com/aptivi/main/BskyId)
