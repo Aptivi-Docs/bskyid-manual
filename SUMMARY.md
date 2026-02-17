@@ -2,10 +2,6 @@
 
 * [Welcome!](README.md)
 
-## Releases
-
-* [Version Release Notes](releases/version-release-notes.md)
-
 ## Installation
 
 * [Installing](installation/installing.md)
